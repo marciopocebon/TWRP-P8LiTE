@@ -2,24 +2,22 @@
 
 TWRP image for Huawei P8 Lite 
 
-HOWTO: 
+# HOWTO: 
 
-    cd TWRP-P8LiTE/.scripts
+    cd TWRP-P8LiTE/_scripts
     ./repack.sh ../TWRP-P8LiTE
     fastboot flash recovery_ramdisk image-file.img
     
     That's all!
     
-REQUIREMENTS
+# REQUIREMENTS
 
 Huawei P8 Lite
 Repack toool (in _scripts dir)
 
-CONTACT:
+# CONTACT:
+
 If you have problems, questions, ideas or suggestions please contact us by posting to wuseman@nr1.nu
-WEB SITE
 
-Visit our homepage for the latest info and updated tools
+# END!
 
-https://github.com/wuseman
-END!
